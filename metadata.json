@@ -1,0 +1,5 @@
+{
+  "name": "Nexus IoT Admin Dashboard",
+  "description": "A comprehensive, API-driven administrative panel for IoT and Automation services, featuring lead management, project tracking, service configuration, and real-time dashboard analytics.",
+  "requestFramePermissions": []
+}
